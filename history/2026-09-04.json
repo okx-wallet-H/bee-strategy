@@ -1,1 +1,2 @@
 {"strategy_id": "xrp_swing_v1", "symbol": "XRP-USDT-SWAP", "direction": "short", "quantity": "10", "price": "1.4626", "stop_loss": "1.4919", "take_profit": "1.4187", "confidence": 0.8, "timestamp": "2026-09-04T02:38:11Z"}
+{"strategy_id": "xrp_swing_v1", "symbol": "XRP-USDT-SWAP", "direction": "short", "quantity": "10", "price": "1.446", "stop_loss": "1.4749", "take_profit": "1.4026", "confidence": 0.8, "timestamp": "2026-09-04T02:57:38Z"}
