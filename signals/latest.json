@@ -3,9 +3,9 @@
   "symbol": "XRP-USDT-SWAP",
   "direction": "short",
   "quantity": "10",
-  "price": "1.446",
-  "stop_loss": "1.4749",
-  "take_profit": "1.4026",
+  "price": "1.4449",
+  "stop_loss": "1.4738",
+  "take_profit": "1.4016",
   "confidence": 0.8,
-  "timestamp": "2026-09-04T02:57:38Z"
+  "timestamp": "2026-09-04T02:58:44Z"
 }
